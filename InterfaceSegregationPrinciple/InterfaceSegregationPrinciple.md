@@ -1,0 +1,1 @@
+The Interface Segregation Principle (ISP) states that clients should not be forced to depend on interfaces they do not use. It promotes creating specific interfaces tailored to the needs of clients, instead of having large interfaces that encompass unnecessary functionalities.
